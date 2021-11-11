@@ -1,0 +1,10 @@
+print("EVANGELIO, DANICA MAY E.")
+
+n=int(input("Days:"))
+
+sum = n*(n+1)/2
+total = sum+n
+total = int(total)
+
+print("Total: ")
+print(total)
